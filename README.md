@@ -39,7 +39,7 @@
 - Bước 6: Hoàn tất
   * Sau khi đã đăng nhập có thể thực hiện các chức năng ở http://localhost:8080/
   * Trang admin: http://localhost:8080/admin (chỉ tk admin mới vào được)
-# Gọi API
+# API
 - Get all products
 
 ![image](https://github.com/nhanvodk24/MidTerm_Java_Technology/assets/95085184/0662b143-fac1-416f-b9ee-8ad1806577a7)
