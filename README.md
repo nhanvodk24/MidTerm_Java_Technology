@@ -2,8 +2,9 @@
 # Entity-relationship diagram
 ![image](https://github.com/nhanvodk24/MidTerm_Java_Technology/assets/95085184/16e0614c-de70-4767-870b-26f7b1c4fb44)
 # Giải thích cấu trúc code
-![image](https://github.com/nhanvodk24/MidTerm_Java_Technology/assets/95085184/729b45e1-66e9-431e-909d-261386546cd9)
-- package api: chứa 2 controller để triển khai API để thực hiện các thao tác CRUD trên dữ liệu của sản phẩm, đơn đặt hàng trong ứng dụng. Ngoài ra còn có file sendData.txt chứa các raw json để test api.
+![image](https://github.com/nhanvodk24/MidTerm_Java_Technology/assets/95085184/11529be2-e043-4c95-b5f4-0bd8d1955fe6)
+
+- package api: chứa 2 controller để triển khai API để thực hiện các thao tác CRUD trên dữ liệu của sản phẩm, đơn đặt hàng trong ứng dụng.
 
 - package configuration: chứa config của spring security
 
@@ -21,7 +22,7 @@
 
 - package service: chứa các service
 
-- file java main để chạy ứng dụng
+- file Application.java để chạy ứng dụng
 
 - package resources:
   * static: chứa các folder image: chứa ảnh logo, banner, và folder productImages: chứa ảnh sản phẩm
