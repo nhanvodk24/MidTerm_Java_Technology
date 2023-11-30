@@ -24,8 +24,8 @@
 - file java main để chạy ứng dụng
 
 - package resources:
-* static: chứa các folder image: chứa ảnh logo, banner, và folder productImages: chứa ảnh sản phẩm
-* template: chứa các file html thymleaf
+ * static: chứa các folder image: chứa ảnh logo, banner, và folder productImages: chứa ảnh sản phẩm
+ * template: chứa các file html thymleaf
 #  Cách để chạy ứng dụng:
 - Bước 1: Chạy MySQL Workbench và tạo database dựa trên file sql đã cung cấp ở package mysql
 - Bước 2: Chạy file MajorApplication để khởi tạo web
